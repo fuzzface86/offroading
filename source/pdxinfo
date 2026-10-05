@@ -1,0 +1,6 @@
+name=Offroad
+author=fuzzface86
+description=Isometric offroad truck driving for Playdate
+bundleID=com.fuzzface86.offroading
+version=0.1.0
+buildNumber=1
